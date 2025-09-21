@@ -1,0 +1,208 @@
+head:
+  title: "Portafolio de Valentina Nieves"
+
+# showcase
+showcase:
+  enable: true
+  title: "Soy Valentina Nieves"
+  subtitle: "Estudiante de Ingeniería de Sistemas"
+  description: "Soy estudiante de Ingeniería de Sistemas en la Universidad del Magdalena, 
+  cursando sexto semestre. Me apasiona crear soluciones tecnológicas innovadoras en análisis 
+  de datos, inteligencia artificial y programación full-stack, con énfasis en páginas web que 
+  resuelvan desafíos reales. Destaco por mi creatividad, pensamiento analítico y capacidad para 
+  trabajar en equipo, fortaleciendo constantemente mis competencias."
+  image:
+    x: "img/showcase/J4o.gif"
+    _2x: "img/showcase/J4o.gif"
+  imageMobile:
+    x: "img/showcase/J4o.gif"
+    _2x: "img/showcase/J4o.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contactar con Valentina"
+    URL: "mailto:vnieves@unimagdalena.edu.co"
+
+  socialLinks:
+    - icon: "facebook"
+      URL: "https://www.facebook.com/share/1EPDS6n7MG/?mibextid=wwXIfr"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/vs.nieves?igsh=MTNwcGZ3MzkxbGZ4eA%3D%3D&utm_source=qr"
+
+    - icon: "youtube"
+      URL: "https://youtube.com/@valentinanieves9184?si=6rWRR39pldfyWnfu"
+
+# about
+about:
+  enable: true
+  title: "Acerca de mí"
+  content: 
+    <p class="lead">
+    Soy una ingeniera en formación con una pasión inquebrantable por la tecnología y la ciencia 
+    de datos. Mi formación académica me ha proporcionado una base sólida en la programación, el 
+    diseño de software y la gestión de proyectos.  
+    </p>
+    <p class="lead">
+    A lo largo de mi carrera, he trabajado en proyectos de <strong>desarrollo web full-stack</strong> y en la 
+    protección de sistemas informáticos frente a amenazas cibernéticas. Me considero una persona 
+    proactiva y orientada a resultados, con una fuerte capacidad para trabajar en equipo y adaptarme 
+    a nuevos desafíos.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Más sobre mí"
+    URL: "https://www.linkedin.com/in/valentina-sarait-nieves-hernández-533314208/"
+  image:
+    x: "img/who-am-i/yo.jpeg"
+    _2x: "img/who-am-i/yo.jpeg"
+
+# experience
+experience:
+  enable: true
+  title: "Experiencia"
+  description: "Experiencia laboral de 2 años en soporte técnico y gestión de infraestructura 
+  tecnológica, participando en el mantenimiento de equipos de cómputo, configuración de software 
+  y hardware, así como en la administración de redes locales."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/valentina-sarait-nieves-hernández-533314208/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Descarga mí currículum"
+    URL: "#"
+
+  items:
+    - title: ""
+      company: ""
+      duration: ""
+
+    - title: "Mesa de Soporte Técnico LISATECH - Técnico en Sistemas"
+      company: "Apoyo en mantenimiento de equipos de cómputo y soporte técnico a usuarios."
+      duration: "2021 - 2022"
+
+    - title: ""
+      company: ""
+      duration: ""
+
+# education
+education:
+  enable: true
+  title: "Educación"
+  items:
+    - university: "Universidad del Magdalena"
+      year: "2023 - Presente"
+      degree: "Ingeniería de Sistemas"
+
+    - university: "Servicio Nacional de Aprendizaje"
+      year: "2021 - 2022"
+      degree: "Técnico en Sistemas"
+      
+    - university: "Institución Educativa Distrital Liceo Samario"
+      year: "2020 - 2022"
+      degree: "Media Académica"
+      
+    - university: "Institución Educativa Distrital Escuela Normal Superior María Auxiliadora"
+      year: "2011 - 2019"
+      degree: "Básica Primaria y Básica Secundaria"
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+
+# Client & Work
+client_and_work:
+  title: "Proyectos"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Santa Marta Explore: Diseño y prototipado de página web"
+      description: "Santa Marta Explore es una aplicación móvil diseñada para enriquecer 
+      la experiencia turística en la ciudad de Santa Marta, Colombia. Mi rol en este proyecto 
+      se centró en la fase de diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI), 
+      creando un prototipo interactivo que mapea los principales puntos de interés de la región."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Iniciar Aplicación"
+        URL: "https://www.figma.com/proto/J9AQK8aK6zcbKQSL9yrVBg?node-id=0-1&t=fSy5LLTRjWiuCTN0-6"
+      image:
+        x: "img/works/sm_explore.png"
+        _2x: "img/works/sm_explore.png"
+      is_even: true
+
+    - title: "Base de datos de la NBA: Diseño y desarrollo de una base de datos"
+      description: "La base de datos incluye tablas para equipos, jugadores, estadísticas de partidos, 
+      entrenadores y salarios. Se implementaron consultas SQL complejas y procedimientos almacenados 
+      para analizar el rendimiento de los jugadores, comparar estadísticas históricas y generar informes 
+      personalizados."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/bases_datos.png"
+        _2x: "img/works/bases_datos.png"
+      is_even: false
+
+# contact
+contact:
+  enable: true
+  title: "Contacto"
+    
+  image:
+    x: "img/who-am-i/yo.jpeg"
+    _2x: "img/who-am-i/yo.jpeg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Enviar mensaje"
+    btnAction: 'mailto:vnieves@unimagdalena.edu.co'
+    
+  phone:
+    title: "Número Teléfonico"
+    number: "+57 305 425 0805"
+  email:
+    title: "Email"
+    email: '<a href="mailto:vnieves@unimagdalena.edu.co">vnieves@unimagdalena.edu.co</a>'
+  address:
+    title: "Ubicación"
+    address: "Santa Marta, Magdalena, Colombia"
+  
+
+# newsletter
+newsletter:
+  enable: false
